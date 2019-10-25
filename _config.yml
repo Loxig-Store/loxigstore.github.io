@@ -3,8 +3,8 @@
 
 title: Loxig Store
 description: Loxig Store is an easy and simple activity announcer. # this means to ignore newlines until "baseurl:"
-baseurl: "/loxigstore.github.io" # the subpath of your site, e.g. /blog
-url: "https://loxig-store.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.loxig.store" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
