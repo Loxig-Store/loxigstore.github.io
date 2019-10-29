@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Alman sörfçü 115 feet yüksekliğinde dalga sürdü!
-date:   2019-10-25 16:04:55 +0300
+date:   2019-10-29 18:04:55 +0300
 image:  sorf.webp
 tags:   Spor Sörf Deniz 
 ---
