@@ -5,7 +5,8 @@ date:   2019-12-26 21:04:55 +0300
 image:  i12-by-tws.jpg
 tags:   Bluetooth Kulaklık Tws I12
 ---
-79TL
+<h2>79TL</h2>
+![TWS i12 Bluetooth Kulaklık - Powerbank Şarj Üniteli](https://www.videnaccessory.com/image/catalog/i12%20(1).jpg)
 
 Özellikler
 -
