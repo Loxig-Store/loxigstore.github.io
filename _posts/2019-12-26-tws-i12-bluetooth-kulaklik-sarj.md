@@ -5,7 +5,7 @@ date:   2019-12-26 21:04:55 +0300
 image:  i12-by-tws.jpg
 tags:   Bluetooth Kulaklık Tws I12
 ---
-<h2>79TL</h2>
+<h2>79TL (Kargo ÜCRETSİZ) + VPN İndirimi Hediyeli</h2>
 ![TWS i12 Bluetooth Kulaklık - Powerbank Şarj Üniteli](https://www.videnaccessory.com/image/catalog/i12%20(1).jpg)
 
 Özellikler
@@ -22,3 +22,10 @@ tags:   Bluetooth Kulaklık Tws I12
 - Şarj kutusu ile kulaklık yaklaşık 4 kez şarj edilebilir
 - Kulaklık şarj olurken kırmızı ışık her zaman açık ve tüm ışık kapalıdır.
 - Şarj kutusu kulaklığı şarj ederken, mavi ışık her zaman açıktır.
+
+Kutu İçeriği
+-
+- 2 Adet i12 TWS HD Sound Quality Kulaklık (Sağ ve Sol)
+- 1 Adet Kablosuz Şarj Kutusu
+- 1 Adet Şarj Kablosu
+- Kullanım Klavuzu
