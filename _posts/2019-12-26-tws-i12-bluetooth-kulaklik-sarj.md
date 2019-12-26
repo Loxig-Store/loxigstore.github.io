@@ -5,3 +5,4 @@ date:   2019-12-26 21:04:55 +0300
 image:  i12-by-tws.jpg
 tags:   Bluetooth Kulaklık Tws I12
 ---
+79TL
